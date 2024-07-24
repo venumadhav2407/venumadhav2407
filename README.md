@@ -1,3 +1,4 @@
+![linkedin banner update](https://github.com/user-attachments/assets/6e79634c-571f-46d5-9151-8e6343de9ec3)
 - 👋 Hi, I'm Venumadhav
 -  I am a full-stack developer with 1 year of experience.
 - 🌱 I’m currently learning ... Data Science
