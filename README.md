@@ -1,6 +1,7 @@
-![linkedin banner update](https://github.com/user-attachments/assets/6e79634c-571f-46d5-9151-8e6343de9ec3)
+![linkedin banner update (1)](https://github.com/user-attachments/assets/495b5a20-6352-41a5-90b6-e1a5aa731929)
+
 - 👋 Hi, I'm Venumadhav
--  I am a full-stack developer with 1 year of experience.
+-  I am a Software developer with 1 year of experience.
 - 🌱 I’m currently learning ... Data Science
 
 
