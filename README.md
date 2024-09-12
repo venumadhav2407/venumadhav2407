@@ -8,8 +8,8 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venumadhav07) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/venumadhav06) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_venu_code_x_/) 
+[![Kaggle](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/venumadhav06) 
+[![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_venu_code_x_/) 
 
 
 
