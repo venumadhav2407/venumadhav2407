@@ -7,9 +7,10 @@
 
 
 ## Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/venumadhav07/)
-[![My Skills](https://skillicons.dev/icons?i=kaggle)](https://www.kaggle.com/venumadhav06)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_venu_code_x_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venumadhav07) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/venumadhav06) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_venu_code_x_/) 
+
 
 
 
