@@ -15,6 +15,6 @@
 
 
 ## Tools and skills
-[![My Skills](https://skillicons.dev/icons?i=python,php,html,css,js,jquery,mysql,postgresql,git,flask&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,html,css,js,mysql,git,flask&perline=5)](https://skillicons.dev)
 
 
