@@ -1,6 +1,7 @@
- ![linkedin banner update (1)](https://github.com/user-attachments/assets/495b5a20-6352-41a5-90b6-e1a5aa731929)
+![resized-image-1731478105959](https://github.com/user-attachments/assets/172a0026-7d0b-4cad-bb61-8606a8532697)
 
 - 👋 Hi, I'm Venumadhav
+
 -  I am a Software developer with 1 year of experience.
 - 🌱 I’m currently learning ... Data Science
 
@@ -9,7 +10,6 @@
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venumadhav07) 
 [![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/venumadhav06) 
-[![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_venu_code_x_/) 
 
 
 
