@@ -3,7 +3,7 @@
 - 👋 Hi, I'm Venumadhav
 
 -  I am a Software developer with 1 year of experience.
-- 🌱 I’m currently learning ... Data Science
+-  Data Science 
 
 
 
